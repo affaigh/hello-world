@@ -2,4 +2,4 @@
 first depository
 
 Hi All!!!
-My name is Milan. A this is me trying to work with github for the first time.
+My name is Milan. I'm trying to work with GitHub for the first time.
